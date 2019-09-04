@@ -23,6 +23,31 @@ export default new Router({
       path: '/typeScript/component',
       name: 'component',
       component: () => import('./views/typeScript/component.vue')
+    },
+    {
+      path: '/typeScript/Provide',
+      name: 'component',
+      component: () => import('./views/typeScript/Provide.vue')
+    },
+    {
+      path: '/typeScript/Prop',
+      name: 'component',
+      component: () => import('./views/typeScript/Prop.vue')
+    },
+    {
+      path: '/typeScript/PropSync',
+      name: 'component',
+      component: () => import('./views/typeScript/PropSync.vue')
+    },
+    {
+      path: '/typeScript/Emit',
+      name: 'component',
+      component: () => import('./views/typeScript/Emit.vue')
+    },
+    {
+      path: '/typeScript/Mixins',
+      name: 'component',
+      component: () => import('./views/typeScript/Mixins.vue')
     }
   ]
 })

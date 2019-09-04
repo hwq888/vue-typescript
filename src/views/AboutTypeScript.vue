@@ -6,15 +6,15 @@
     <a href="https://www.tslang.cn/index.html" target="_blank">TypeScript 中文网</a><br>
     <div class="tl">
       <h2>vue-property-decorator 的装饰器：</h2>
-      <router-link to="/">@Component</router-link><br>
-      <router-link to="/">@Provide</router-link><br>
-      <router-link to="/">@Inject</router-link><br>
-      <router-link to="/">@Prop</router-link><br>
-      <router-link to="/">@PropSync</router-link><br>
-      <router-link to="/">@Model</router-link><br>
-      <router-link to="/">@Watch</router-link><br>
-      <router-link to="/">@Emit</router-link><br>
-      <router-link to="/">@Mixins</router-link><br>
+      <router-link to="/typeScript/component">@Component</router-link><br>
+      <router-link to="/typeScript/Provide">@Provide</router-link><br>
+      <router-link to="/typeScript/Provide">@Inject</router-link><br>
+      <router-link to="/typeScript/Prop">@Prop</router-link><br>
+      <router-link to="/typeScript/PropSync">@PropSync</router-link><br>
+      <router-link to="/typeScript/Model">@Model</router-link><br>
+      <router-link to="/typeScript/component">@Watch</router-link><br>
+      <router-link to="/typeScript/Emit">@Emit</router-link><br>
+      <router-link to="/typeScript/Mixins">@Mixins</router-link><br>
     </div>
     <div class="tl">
       <h2>vuex-class 的装饰器：</h2>
