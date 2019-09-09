@@ -1,8 +1,9 @@
 <template>
   <div class="about">
     <h1>文档参照：</h1>
-    <a href="http://npm.taobao.org/package/vue-property-decorator" target="_blank">npm vue-property-decorator</a><br>
-    <a href="https://github.com/kaorun343/vue-property-decorator" target="_blank">git vue-property-decorator</a><br>
+    <a href="https://github.com/kaorun343/vue-property-decorator" target="_blank">gvue-property-decorator</a><br>
+    <a href="https://github.com/ktsn/vuex-class" target="_blank">vuex-class</a><br>
+    <a href="https://github.com/vuejs/vue-class-component" target="_blank">vue-class-component</a><br>
     <a href="https://www.tslang.cn/index.html" target="_blank">TypeScript 中文网</a><br>
     <div class="tl">
       <h2>vue-property-decorator 的装饰器：</h2>
